@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sarthak Shirsat</h1>
 <h3 align="center">A passionate web developer from India</h3>
-<img align="right" width="400px" src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif" >
+<img align="right" style="border-radius: 8px"  width="400px" src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarthak-16xo&label=Profile%20views&color=0e75b6&style=flat" alt="sarthak-16xo" /> </p>
 
