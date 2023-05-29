@@ -6,7 +6,6 @@
 
 
 
-- 🔭 I’m currently working on [GoGrocery](https://github.com/Sarthak-16XO/GoGrocery)
 
 - 🌱 I’m currently learning **React**
 
