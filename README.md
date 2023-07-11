@@ -7,7 +7,7 @@
 
 
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **NextJS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sarthak-16XO](https://github.com/Sarthak-16XO)
 
