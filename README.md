@@ -7,7 +7,7 @@
 
 
 
-- 🌱 I’m currently learning **NextJS**
+- 🌱 I’m currently working as **Software Engineer**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sarthak-16XO](https://github.com/Sarthak-16XO)
 
