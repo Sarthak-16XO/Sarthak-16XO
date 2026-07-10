@@ -1,29 +1,127 @@
 <h1 align="center">Hi 👋, I'm Sarthak Shirsat</h1>
-<h3 align="center">A passionate web developer from India</h3>
-<img align="right" width="400px" src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif" >
+<h3 align="center">Full Stack Software Engineer | React • Next.js • Python • FastAPI</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sarthak-16xo&label=Profile%20views&color=0e75b6&style=flat" alt="sarthak-16xo" /> </p>
+<img align="right" width="380" src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif"/>
 
+## 👨‍💻 About Me
 
+- 💼 Software Engineer at **Go India Advisors**
+- 🚀 2+ years of experience building production web applications
+- 🌐 Experienced in Frontend, Backend & AI-powered applications
+- 📈 Passionate about FinTech, Automation and Scalable Web Applications
+- 🤖 Building AI integrations using OpenAI APIs, LangChain and Automation tools
+- ⚡ Love writing clean, reusable and scalable code
 
+---
 
-- 🌱 I’m currently working as **Software Engineer**
+## 🚀 Tech Stack
 
-- 👨‍💻 All of my projects are available at [https://github.com/Sarthak-16XO](https://github.com/Sarthak-16XO)
+### Frontend
 
-- 📫 How to reach me **sarthakxo16@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sarthak-shirsat-8934a6207" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sarthak shirsat" height="30" width="40" /></a>
-<a href="https://instagram.com/sarthaccc_16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sarthaccc_16" height="30" width="40" /></a>
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,bootstrap,materialui"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+### Backend
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarthak-16xo&show_icons=true&locale=en&layout=compact" alt="sarthak-16xo" /></p>
+<p>
+<img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,express"/>
+</p>
 
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=sarthak-16xo&show_icons=true&locale=en" alt="sarthak-16xo" width="470px" /></p>
+### Database
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarthak-16xo&" alt="sarthak-16xo" /></p>
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+</p>
+
+### AI & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,figma,linux,vscode"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge"/>
+</p>
+
+---
+
+## 📌 What I'm Working On
+
+- 📊 Financial Dashboards
+- 🤖 AI Powered Applications
+- 📈 Stock Market Analytics
+- ⚙️ Automation Systems
+- 📑 Dynamic PDF & PPT Generation
+- 🔍 AI Search & Recommendation Systems
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced System Design
+- AI Agents
+- LLM Applications
+- Cloud Deployment
+- Performance Optimization
+
+---
+
+## 📫 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/sarthak-shirsat-8934a6207" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:sarthakxo16@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://github.com/Sarthak-16XO">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sarthak-16XO&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarthak-16XO&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Sarthak-16XO&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Sarthak-16XO&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</p>
+
+---
+
+## 📊 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sarthak-16XO&theme=tokyo-night"/>
+
+</p>
+
+---
+
+## 💡 Quote
+
+> *"Code. Learn. Build. Repeat."*
